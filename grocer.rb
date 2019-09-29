@@ -15,6 +15,7 @@ element_stats[:count] += 1
       # binding.pry 
    end
   end
+  final_hash
 end
 
 def apply_coupons(cart, coupons)
