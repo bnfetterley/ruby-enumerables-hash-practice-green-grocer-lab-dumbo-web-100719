@@ -31,7 +31,7 @@ end
 
 
 def apply_coupons(cart, coupons)
-  coupons.each
+  coupons.each do |coupon|
   binding.pry
 end
 
