@@ -21,7 +21,7 @@ final_hash[element_name][:count] += 1
 end
 
 def apply_coupons(cart, coupons)
-  # code here
+  binding.pry
 end
 
 def apply_clearance(cart)
