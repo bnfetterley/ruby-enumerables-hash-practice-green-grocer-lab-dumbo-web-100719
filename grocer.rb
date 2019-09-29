@@ -8,7 +8,7 @@ def consolidate_cart(cart)
     element_stats = element_hash.values[0] 
     
     if final_hash.has_key?(element_name)
-element_stats(:count)
+element_stats(:count) += 1
     #   else
         
         
