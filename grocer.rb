@@ -3,8 +3,8 @@ require 'pry'
 
 def consolidate_cart(cart)
   Final_hash = {}
-  binding.pry
   cart.each do |element_hash|
+    binding.pry
   # cart[item] += 1
 end
 end
