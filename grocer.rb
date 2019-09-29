@@ -12,7 +12,7 @@ element_stats[:count] += 1
       else
         final_hash[element_name] = {
           count: 1,
-          price
+          price: 
         }
       # binding.pry 
    end
