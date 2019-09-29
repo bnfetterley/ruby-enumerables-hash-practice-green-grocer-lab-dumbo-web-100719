@@ -5,7 +5,7 @@ def consolidate_cart(cart)
   final_hash = {}
   cart.each do |element_hash|
     element_name = element_hash.keys[0] 
-  cart[element_hash] += 1
+  #cart[element_hash] += 1
   binding.pry
   end
 end
