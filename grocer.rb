@@ -20,10 +20,35 @@ final_hash[element_name][:count] += 1
   final_hash
 end
 
+
+
+
+
+
+
+
+
+
+
 def apply_coupons(cart, coupons)
   coupons.each
   binding.pry
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 def apply_clearance(cart)
   # code here
