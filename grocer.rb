@@ -1,3 +1,5 @@
+
+
 def consolidate_cart(cart)
   hash.new = cart.each do |item|
   cart[item] += 1
