@@ -2,6 +2,7 @@
 require 'pry'
 
 def consolidate_cart(cart)
+  binding.pry
   hash.new = cart.each do |item|
   cart[item] += 1
 end
