@@ -4,7 +4,7 @@ require 'pry'
 def consolidate_cart(cart)
   Final_hash = {}
   binding.pry
-  # hash.new = cart.each do |item|
+  #Final_hash = cart.each do |item|
   # cart[item] += 1
 end
 end
