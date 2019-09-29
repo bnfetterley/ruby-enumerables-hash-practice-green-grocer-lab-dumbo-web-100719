@@ -40,7 +40,7 @@ end
 
 
 def apply_clearance(cart)
- cart.each
+ cart.each do | |
 end
 
 def checkout(cart, coupons)
