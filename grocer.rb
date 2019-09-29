@@ -6,7 +6,9 @@ def consolidate_cart(cart)
   cart.each do |element_hash|
     element_name = element_hash.keys[0] 
     element_stats = element_hash.values[0] 
-  #cart[element_hash] += 1
+    
+    if else
+
   binding.pry
   end
 end
