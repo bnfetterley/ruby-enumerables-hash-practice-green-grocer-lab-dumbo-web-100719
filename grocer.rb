@@ -7,7 +7,7 @@ def consolidate_cart(cart)
     element_name = element_hash.keys[0] 
     element_stats = element_hash.values[0] 
     
-    if final_hash[element_name]
+    if final_hash.has
       
     #   else
         
